@@ -1,5 +1,5 @@
 # 💫 About Me:
-Information Technology junior at Montclair State University with hands-on experience in full-stack development, data analytics, and product execution. I build scalable applications, translate data into insights, and ship projects used in real-world settings through hackathons, internships, and campus leadership.
+Information Technology senior at Montclair State University with hands-on experience in full-stack development, data analytics, and product execution. I build scalable applications, translate data into insights, and ship projects used in real-world settings through hackathons, research, internships, and campus leadership.
 
 
 ## 🌐 Socials:
